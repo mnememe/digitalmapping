@@ -14,13 +14,18 @@ Some can be combined with other exercises (see notes).
 For Google Maps use one of the following
 
 Accused Witches data set (source Salem Witchcraft Dataset, Professor Richard Latner of Tulane University, https://kaggle.com/rtatman/salem-witchcraft-dataset)
+
 GPID_clean.csv (source Getty Provenance Index Database https://github.com/chnm/doingdh/blob/master/GPID_clean.csv)
+
 Cushman-collection.csv (Miriam Posner https://github.com/miriamposner/palladio_workshop/blob/master/Cushman-Collection.csv
+
 Vic Heritage Database - Vhd.xlsx or vhd.csv (Scraped and compiled from https://vhd.heritagecouncil.vic.gov.au/)
+
 Ww2-places.csv (Source https://www.data.qld.gov.au/dataset/world-war-ii-historic-places-in-queensland/resource/cbd1aa53-38f3-414d-9ed2-29623047ac23)
 
 Others that need some tidying to use (location data required)
 Saphotographs1950onwards.csv << needs better location data. Try editing a section for Palladio. (Source Data SA https://data.sa.gov.au/data/dataset/south-australian-photographs/resource/11098c97-755a-4681-a915-2d2a9819e188)
+
 Shipwrecks data - Sheet1.csv << Needs better location data (Source New Jersey Shipwrecks http://blackwhale.com/shipwreckdatabase.html)
 
 For Palladio you need a csv or similar with a column of latlong coordinates, use
